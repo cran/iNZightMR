@@ -1,4 +1,4 @@
-4e4c9419f36c0b7c29f9258631c6201d *DESCRIPTION
+cc6bdf91506aa15ebea4d6d117ad1a3c *DESCRIPTION
 680b0b134a5456581dfd6f27e11fb821 *NAMESPACE
 549811003967b2cd755c0414c89e7906 *R/barplot.R
 791e637e6838b3befd0d9b444315323b *R/bymro.R
@@ -12,7 +12,7 @@
 cc6781df4186247664ff6ad5c6207298 *R/summary.R
 6ea2f1d8b4b7a1715a28ca132d43d399 *R/switcher.R
 8b4728d4ba386e55622ef6c6e85b4c68 *R/toolbox.R
-7a10c41c02856597968d1d51249019df *R/vmro.R
+1d64d4db9289595150c472016ea84473 *R/vmro.R
 3b5b508d682b7864655a91543aac7c7a *data/census.at.school.5000.rda
 97cfff45463f8d2ca5e9d27160f345d5 *man/barplotMR.Rd
 fc74fda0bbc4109888d48f046ba5c464 *man/between.Rd
@@ -32,4 +32,4 @@ d406da941ff99dabc56decdbdea91d02 *man/seBinprops.Rd
 f4b95ba217d6ea1d05c7dfccfd1f514d *man/substrsplit.Rd
 ddc654ccdc1c4d1c1038b4852364c285 *tests/testthat.R
 881f6323d4664bf87c1e0d2362e7e6c2 *tests/testthat/test_mrobject.R
-f0fde4e9ba8aeadcca9b7ec60e79c4d7 *tests/testthat/test_vmro.R
+2e9fe80019637a67b29046dd3f921095 *tests/testthat/test_vmro.R
