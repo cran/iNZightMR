@@ -1,5 +1,5 @@
-f90094fe598fac3a8a344b7e3c862a5b *DESCRIPTION
-680b0b134a5456581dfd6f27e11fb821 *NAMESPACE
+674b761a98d0b835e3f89ba6cdcd7a12 *DESCRIPTION
+8d63baea3cc87bf411ee9c65562d0091 *NAMESPACE
 168264ceb60cada6c1711f7685506fe4 *R/barplot.R
 0a26d3a9b5a75fa7dd3e9c4239d3fd60 *R/bymro.R
 532b924b7c723e28edb2db2f6cf9ff9d *R/chisq.R
@@ -12,19 +12,19 @@ fbf0f80394cdb1bafd55bb2a02a2e554 *R/ses.moecalc.R
 cc6781df4186247664ff6ad5c6207298 *R/summary.R
 6ea2f1d8b4b7a1715a28ca132d43d399 *R/switcher.R
 ce10835f49f4a43604a97b18bbc204f1 *R/toolbox.R
-1d64d4db9289595150c472016ea84473 *R/vmro.R
+b90218e4e1876532c729c3b83004c66c *R/vmro.R
 3b5b508d682b7864655a91543aac7c7a *data/census.at.school.5000.rda
 2f0b41fd1dfac411915c29139d3ee70d *inst/WORDLIST
 b1c95e8007fcfcc0a5f4d089c6d62405 *man/barplotMR.Rd
 fc74fda0bbc4109888d48f046ba5c464 *man/between.Rd
 731d0b6a63c76bf12e0e4668f18b05cf *man/byMRO.Rd
-d891b13553e97a6b9339657e3e460c20 *man/calcmissing.Rd
+6d4cdb3259c3e3b03ab92a9954d1d8f2 *man/calcmissing.Rd
 1a36456563421b730990eb2a15c2337a *man/census.at.school.5000.Rd
 40d65b1bf38edf7d0e6bf386359a8b20 *man/iNZightMR-package.Rd
 808e12e0bb2885608e7c34b37e7b22a7 *man/iNZightMR.Rd
 d651ef894b2024e968b3fdc514f0a3aa *man/moecalc.Rd
 a801b4457d56b56f3d303a21f7783831 *man/mroPara.Rd
-2384cc66e0195469c25de2a5a80f098e *man/plotcombn.Rd
+8969b91478f7bf4974f46f452bda24c6 *man/plotcombn.Rd
 d406da941ff99dabc56decdbdea91d02 *man/seBinprops.Rd
 726d819a374e67c197a4ef8db1e4d984 *man/seCovs.Rd
 002b84406c173b795a9bb74f073b33c5 *man/seIndepSes.Rd
@@ -32,5 +32,6 @@ d406da941ff99dabc56decdbdea91d02 *man/seBinprops.Rd
 1b8427d0c9346963ee08abe916ba0381 *man/seMRprops.Rd
 5993a3d7a52a73b6fae60f26e93613f2 *man/substrsplit.Rd
 ddc654ccdc1c4d1c1038b4852364c285 *tests/testthat.R
+1953a25e9356d9d43f775584c9782489 *tests/testthat/Rplots.pdf
 881f6323d4664bf87c1e0d2362e7e6c2 *tests/testthat/test_mrobject.R
 2e9fe80019637a67b29046dd3f921095 *tests/testthat/test_vmro.R
